@@ -20,7 +20,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "dotenv": "^8.0.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "movement": "0.0.13",
     "node-spotify-api": "^1.1.1",
     "omdb": "^0.8.0"
